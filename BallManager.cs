@@ -39,4 +39,5 @@ public class BallManager : MonoBehaviour
             gameManager.GetComponent<GameManager>().StageClear();
         }
     }
+    //テスト確認のため最後にいらない１文を足したよ
 }
